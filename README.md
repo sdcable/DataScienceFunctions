@@ -1,24 +1,24 @@
 # DataScienceFunctions
 This file is a combination of many different data-related functions.
 
-#calculateUnivariateStatsViz -
+## calculateUnivariateStatsViz -
 Displays univariate stats and graphs
 
-#calculateBivariateStatsViz
+## calculateBivariateStatsViz
 Displays bivariate stats with any df stats
 
-#calculateTTest
+## calculateTTest
 Calculates t-test based on features passed
 
-#calculateANOVA
+## calculateANOVA
 Calculates ANNOVA based on features passed
 
-#createBarChart
+## createBarChart
 Creates a bar chart with features/label passed
 
-#createScatterPlot
+## createScatterPlot
 Creates a scatterplot with features/label passed
 
-#Testing MLR Assumptions
+# Testing MLR Assumptions
 
-#assumption1LinearRelationship
+## assumption1LinearRelationship
